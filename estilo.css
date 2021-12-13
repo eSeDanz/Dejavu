@@ -16,13 +16,9 @@ h1 {
 }
 
 p {
+    display: block;
     margin-left: 20%;
     margin-right: 20%;
-    display: block;
-    margin-block-start: 1em;
-    margin-block-end: 1em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
 }
 
 p.inicial {
